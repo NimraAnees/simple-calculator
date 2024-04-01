@@ -20,5 +20,5 @@ if(answer.operator === "Subtraction"){
 }else if(answer.operator === "Division"){
   console.log(answer.firstnumber / answer.secondnumber);
 }else{
-  console.log("Please enter valid operator");
+  console.log("Please enter a valid operator");
 }
